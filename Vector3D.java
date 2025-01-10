@@ -22,6 +22,7 @@ public class Vector3D {
         return Z;
     }
 
+
     @Override
     public String toString() {
         String myStr = "(%.2f, %.2f, %.2f)";
