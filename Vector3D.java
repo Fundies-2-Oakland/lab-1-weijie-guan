@@ -30,7 +30,7 @@ public class Vector3D {
     }
 
     public static void main(String[] args) {
-        var apple = new Vector3D(2.22222, 3.33333, 4.44444);
+        var apple = new Vector3D(2.22212, 3.33333, 4.44444);
         System.out.println(apple);
     }
 }
